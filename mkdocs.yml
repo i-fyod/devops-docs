@@ -1,0 +1,9 @@
+site_name: DevOps Operations Handbook
+site_url: https://i-fyod.github.io/devops-lab09-docs-20261121/
+nav:
+  - Главная: index.md
+  - Эксплуатация: runbook.md
+  - Инциденты: incidents.md
+validation:
+  links:
+    not_found: warn
